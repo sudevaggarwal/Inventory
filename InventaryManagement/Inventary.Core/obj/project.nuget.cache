@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qmSfP/qgAm+gBeu/eTy0/YjavFS1dVVjf9tuhlowxcHoaVNxa20/rqTBW8cgCwEVsjQId+20LTvv+tOEw1xXuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SUDEV\\Desktop\\Inventary\\InventaryManagement\\Inventary.Core\\Inventary.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUDEV\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
+    "C:\\Users\\SUDEV\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.1.0\\fluentvalidation.aspnetcore.10.1.0.nupkg.sha512",
+    "C:\\Users\\SUDEV\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.1.0\\fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
+    "C:\\Users\\SUDEV\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\bin\Debug\netcoreapp3.1\Inventary.Data.deps.json
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\bin\Debug\netcoreapp3.1\Inventary.Data.dll
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\bin\Debug\netcoreapp3.1\Inventary.Data.pdb
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\bin\Debug\netcoreapp3.1\Inventary.Core.dll
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\bin\Debug\netcoreapp3.1\Inventary.Core.pdb
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\obj\Debug\netcoreapp3.1\Inventary.Data.csprojAssemblyReference.cache
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\obj\Debug\netcoreapp3.1\Inventary.Data.AssemblyInfoInputs.cache
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\obj\Debug\netcoreapp3.1\Inventary.Data.AssemblyInfo.cs
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\obj\Debug\netcoreapp3.1\Inventary.Data.csproj.CoreCompileInputs.cache
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\obj\Debug\netcoreapp3.1\Inventary.Data.csproj.CopyComplete
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\obj\Debug\netcoreapp3.1\Inventary.Data.dll
+C:\Users\SUDEV\Desktop\Inventary\InventaryManagement\Inventary.Data\obj\Debug\netcoreapp3.1\Inventary.Data.pdb
